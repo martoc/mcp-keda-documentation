@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "keda-documentation": {
+      "command": "uv",
+      "args": ["run", "mcp-keda-documentation"]
+    }
+  }
+}
